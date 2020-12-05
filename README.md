@@ -1,6 +1,4 @@
-# run-buddy
-This is a repository for the Module assignments for "Run Buddy". 
-# Run Buddy
+# Run Buddy Inc. 
 
 ## Purpose
 A website that offers fitness training services.
